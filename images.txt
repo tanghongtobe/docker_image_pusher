@@ -59,7 +59,9 @@
 
 #node:20.19.4
 
-valkey/valkey:8-alpine
+#valkey/valkey:8-alpine
+
+mysql:8.0.0
 
 
 
